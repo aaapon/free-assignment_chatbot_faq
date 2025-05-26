@@ -1,0 +1,16 @@
+[ERROR] 2025-05-26 08:08:29,659 line 49, in <module>, session_id=521c42a08c5a48008f2d38ea800d49e2: 初期化処理に失敗しました。
+[Errno 2] No such file or directory: './data/faq.csv'
+[INFO] 2025-05-26 08:15:42,457 line 58, in <module>, session_id=a22d0213539641539ab5341b588f0d4a: アプリが起動されました。
+[INFO] 2025-05-26 08:19:04,407 line 58, in <module>, session_id=dfd97c93729d430ead538ecc9093cf59: アプリが起動されました。
+[INFO] 2025-05-26 08:23:19,384 line 58, in <module>, session_id=53956e33f1f04aa0b303130ae0f3513e: アプリが起動されました。
+[INFO] 2025-05-26 08:31:19,059 line 58, in <module>, session_id=1f6345d079204845b817b244ae022085: アプリが起動されました。
+[INFO] 2025-05-26 08:40:11,995 line 58, in <module>, session_id=2555939a0aaf42e0bd60a6cb4294325b: アプリが起動されました。
+[INFO] 2025-05-26 08:43:05,338 line 58, in <module>, session_id=c992759fa40b4dfe819de2adb644c944: アプリが起動されました。
+[INFO] 2025-05-26 08:52:18,382 line 58, in <module>, session_id=c2dd2c0fcadd426caad0d16cdbf6eff4: アプリが起動されました。
+[INFO] 2025-05-26 09:05:53,567 line 58, in <module>, session_id=11f37599e4e84429b0fa43935a56fdc8: アプリが起動されました。
+[INFO] 2025-05-27 07:31:11,677 line 58, in <module>, session_id=7edeb78c291d4661a9cbcb6529b17931: アプリが起動されました。
+[ERROR] 2025-05-27 07:31:11,883 line 97, in <module>, session_id=7edeb78c291d4661a9cbcb6529b17931: 過去の会話履歴の表示に失敗しました。
+module 'components' has no attribute 'display_conversation_log'
+[INFO] 2025-05-27 07:33:17,696 line 58, in <module>, session_id=d7cc0f5df9804bb09b23058c8d8339e4: アプリが起動されました。
+[ERROR] 2025-05-27 07:33:17,881 line 97, in <module>, session_id=d7cc0f5df9804bb09b23058c8d8339e4: 過去の会話履歴の表示に失敗しました。
+module 'components' has no attribute 'display_conversation_log'
